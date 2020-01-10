@@ -2,6 +2,6 @@
 
 2. Spuštění projektu: Soubory v tomto Git repozitáři netvoří funkční projekt. Tento Git repozitář umožňuje pouze náhled na kód klíčových souborů projektu "Kosmonauti". Projekt je možné spustit na této web. adrese: https://astronauts-vcl-cd8fe.firebaseapp.com.
 
-3. Známé problémy: Projekt nefunguje v prohlížeči "Microsoft Internet Explorer" (patrně ve všech jeho verzích). Použijte místo něj Microsoft Edge anebo jiný známý prohlížeč (Chrome, Firefox, Opera atd.).
+3. Známé problémy: Projekt nefunguje v prohlížeči "Microsoft Internet Explorer" (patrně ve všech jeho verzích). Použijte místo něj Microsoft Edge anebo jiný známý prohlížeč (Vivaldi, Chrome, Firefox, Opera atd.).
 
 4. Projekt "Kosmounauti" vznikl za použití javascriptových/CSS frameworků/knihoven Vue.js, Vuefire a Vuetify. Je "napojen" na "realtime" databázi Firebase.
